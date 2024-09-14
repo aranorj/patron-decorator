@@ -1,6 +1,6 @@
 public class Goblin extends Personaje{
 
     public Goblin(){
-        super("Goblin", 300);
+        super("Goblin", 350);
     }
 }
